@@ -1,2 +1,2 @@
 # rapidjira
-Test Jira 
+Test Jira  2
